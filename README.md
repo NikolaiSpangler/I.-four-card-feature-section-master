@@ -1,2 +1,2 @@
 # I.-four-card-feature-section-master
-Mobile-friendly responsive page
+ Mobile-friendly reponsive page
